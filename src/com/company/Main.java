@@ -32,4 +32,8 @@ public class Main {
 
         return age;
     }
+
+    public void newgithubmethod (){
+        System.out.println("test 1");
+    }
 }
