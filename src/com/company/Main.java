@@ -36,4 +36,8 @@ public class Main {
     public void newgithubmethod (){
         System.out.println("test 1");
     }
+
+    public void newgithubmethod2 (){
+        System.out.println("test 2");
+    }
 }
