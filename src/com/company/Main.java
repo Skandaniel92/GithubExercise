@@ -11,7 +11,7 @@ public class Main {
         System.out.println("It works!");
         obj.greet();
 
-        int age = obj.askAboutAge(0);
+        int age = obj.askAboutAgetest(0);
 
         System.out.println(age);
 
@@ -25,12 +25,11 @@ public class Main {
         System.out.println("Hej navn " + name);
     }
 
-    public int askAboutAge(int age){
+    public int askAboutAgetest(int age){
 
         System.out.println("Indtast din alder --> ");
         age = input.nextInt();
 
         return age;
-
     }
 }
