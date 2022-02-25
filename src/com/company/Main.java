@@ -40,4 +40,8 @@ public class Main {
     public void newgithubmethod2 (){
         System.out.println("test 2");
     }
+
+    public void newgithubmethod3 (){
+        System.out.println("test 3");
+    }
 }
